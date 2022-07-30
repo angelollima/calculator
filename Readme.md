@@ -1,4 +1,4 @@
-## A simple model of a calculator built with Python!
+## Model of a calculator built with Python!
 
 ### What does each thing mean
 
